@@ -11,7 +11,7 @@ class Vehicle {  // base/super class for all classes below
     }
     
     func makeNoise(){
-       // print("peep peep" )
+       //uj print("peep peep" )
     }
     
     final func changToRuble (){  // prevent overriding
