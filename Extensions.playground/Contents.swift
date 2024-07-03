@@ -35,13 +35,13 @@ class SmarPerson: Person{
     
 }
 
-//var human = Person()
-//human.sayHi()
-//human.sayBlaBla()
-//var smartHuman = SmarPerson()
-//smartHuman.saySmart()
-//smartHuman.sayHi()
-//
-//Person.avgLifeDuration = 88
-//SmarPerson.avgLifeDuration = 99
-//Person.avgLifeDuration
+var human = Person()
+human.sayHi()
+human.sayBlaBla()
+var smartHuman = SmarPerson()
+smartHuman.saySmart()
+smartHuman.sayHi()
+
+Person.avgLifeDuration = 88
+SmarPerson.avgLifeDuration = 99
+Person.avgLifeDuration
